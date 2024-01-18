@@ -3,6 +3,9 @@
 .pytest_cache
 .vscode
 
+# Notebooks
+*.DS_Store
+
 # Readme files
 **/readme.txt
 
